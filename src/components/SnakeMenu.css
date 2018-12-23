@@ -1,0 +1,8 @@
+.SnakeMenu {
+  width: 60vw;
+  margin: auto;
+  padding-top: 10vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}

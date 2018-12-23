@@ -1,0 +1,18 @@
+.Overlaid-Image {
+  position: relative;
+  border: solid 5px #cccccc;
+  transition: all ease 1s;
+}
+
+.Image-Overlay {
+  position: absolute;
+  top: 0;
+  z-index: 10;
+  opacity: 0;
+  background-color: #a65ce5;
+  transition: all ease 1s;
+}
+
+.Image-Overlay--visible {
+  opacity: 1;
+}
