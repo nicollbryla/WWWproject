@@ -1,3 +1,17 @@
+To run this project you will need Yarn (https://yarnpkg.com/lang/en/docs/install/#windows-stable).
+In the project directory, you can ran:
+
+### `yarn install`
+
+### `yarn start`
+
+
+
+
+
+
+------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
